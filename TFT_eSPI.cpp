@@ -13,7 +13,7 @@
   Last update by Bodmer 20/03/20
  ****************************************************/
 
-#include "TFT_eSPI.h"
+#include "TB_TFT_eSPI.h"
 
 #if defined (ESP32)
   #if defined(CONFIG_IDF_TARGET_ESP32S3)
